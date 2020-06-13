@@ -47,4 +47,4 @@ Winter 2018, Stanford: head course assistant for [Probabilistic Graphical Models
 
 Fun
 ------
-I like sports.  I enjoy the [outdoors](https://jkuck.github.io/halfdome_img.html), rock climbing, tennis, and [rolling on balance balls](https://github.com/jkuck/jkuck.github.io/blob/master/images/ball_rolling.MOV).  I used to focus on [speedskating](https://www.youtube.com/watch?v=3vojCzsek38).
+I like sports.  I enjoy the [outdoors](https://jkuck.github.io/halfdome_img.md), rock climbing, tennis, and [rolling on balance balls](https://github.com/jkuck/jkuck.github.io/blob/master/images/ball_rolling.MOV).  I used to focus on [speedskating](https://www.youtube.com/watch?v=3vojCzsek38).
