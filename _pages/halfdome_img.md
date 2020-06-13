@@ -1,0 +1,8 @@
+---
+layout: archive
+title: "Hiking Halfdome"
+permalink: /halfdome_img.md
+author_profile: true
+---
+
+<img src='https://github.com/jkuck/jkuck.github.io/blob/master/images/halfdome.jpeg' width=500/>
