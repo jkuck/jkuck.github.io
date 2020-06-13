@@ -39,7 +39,12 @@ Jonathan Kuck, Honglei Zhuang, Xifeng Yan, Hasan Cam, Jiawei Han
 International Conference on Extending Database Technology (EDBT), 2015  
 [[paper](https://www.semanticscholar.org/paper/Query-Based-Outlier-Detection-in-Heterogeneous-Kuck-Zhuang/40150a1f67a5ebfa78a9ac99f998b39fa34bc9ba)]
 
+
 Teaching
 ------
 Winter 2018, Stanford: head course assistant for [Probabilistic Graphical Models](https://cs.stanford.edu/~ermon/cs228/index.html)
 
+
+Fun
+------
+I like sports.  I enjoy the [outdoors](https://github.com/jkuck/jkuck.github.io/blob/master/images/halfdome.HEIC), rock climbing, tennis, and [rolling on balance balls](https://github.com/jkuck/jkuck.github.io/blob/master/images/ball_rolling.MOV).  I used to focus on [speedskating](https://www.youtube.com/watch?v=3vojCzsek38).
