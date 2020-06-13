@@ -25,11 +25,11 @@ Publications
 1. __Approximating the Permanent by Sampling from Adaptive Partitions__  
 Jonathan Kuck, Tri Dao, Hamid Rezatofighi, Ashish Sabharwal, Stefano Ermon  
 Neural Information Processing Systems (NeurIPS), 2019  
-[[paper](https://papers.nips.cc/paper/9089-approximating-the-permanent-by-sampling-from-adaptive-partitions)] [[code](https://github.com/ermongroup/permanent_adaptive)]
+[[paper](https://papers.nips.cc/paper/9089-approximating-the-permanent-by-sampling-from-adaptive-partitions)] [[code](https://github.com/ermongroup/permanent_adaptive)] [[poster](https://github.com/ermongroup/permanent_adaptive/blob/master/permanent_adaptive_sampling_poster.pdf)]  
 1. __Adaptive Hashing for Model Counting__  
 Jonathan Kuck, Tri Dao, Shenjia Zhao, Burak Bartan, Ashish Sabharwal, Stefano Ermon  
 Uncertainty in Artificial Intelligence (UAI), 2019  
-[[paper](http://auai.org/uai2019/proceedings/papers/86.pdf)] [[code](https://github.com/ermongroup/adaptive_hashing)]  
+[[paper](http://auai.org/uai2019/proceedings/papers/86.pdf)] [[code](https://github.com/ermongroup/adaptive_hashing)] [[poster](https://github.com/ermongroup/adaptive_hashing/blob/master/adaptive_hashing_poster.pdf)]  
 1. __Approximate Inference via Weighted Rademacher Complexity__  
 Jonathan Kuck, Ashish Sabharwal, Stefano Ermon  
 Conference on Artificial Intelligence (AAAI), 2018  
