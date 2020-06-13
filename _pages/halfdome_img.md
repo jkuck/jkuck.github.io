@@ -1,5 +1,5 @@
 ---
-permalink: /
+# permalink: /
 title: "Hiking Halfdome"
 # excerpt: "About me"
 # author_profile: true
