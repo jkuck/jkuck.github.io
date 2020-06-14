@@ -35,7 +35,7 @@ Jonathan Kuck, Ashish Sabharwal, Stefano Ermon
 Conference on Artificial Intelligence (AAAI), 2018  
 [[paper](https://arxiv.org/abs/1801.09028)] [[code](https://github.com/ermongroup/weighted-rademacher)] [[blog](https://ermongroup.github.io/blog/rademacher/)]
 1. __Query-Based Outlier Detection in Heterogeneous Information Networks__  
-Jonathan Kuck, Honglei Zhuang, Xifeng Yan, Hasan Cam, Jiawei Han  
+Jonathan Kuck\*, Honglei Zhuang\*, Xifeng Yan, Hasan Cam, Jiawei Han  
 International Conference on Extending Database Technology (EDBT), 2015  
 [[paper](https://www.semanticscholar.org/paper/Query-Based-Outlier-Detection-in-Heterogeneous-Kuck-Zhuang/40150a1f67a5ebfa78a9ac99f998b39fa34bc9ba)]
 
