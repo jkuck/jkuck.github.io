@@ -9,8 +9,8 @@ redirect_from:
 ---
 I am a 5-th year computer science PhD student at Stanford, advised by [Stefano Ermon](https://cs.stanford.edu/~ermon/).  I completed my bachelors in engineering physics at the University of Illinois at Urbana-Champaign.
 
-Contact: jkuck at cs dot stanford dot edu
-<a href="jkuck.github.io/files/CV1.pdf" target="_blank">PDF.</a>
+Contact: jkuck at cs dot stanford dot edu  
+<a href="jkuck.github.io/files/CV1.pdf" target="_blank">CV</a>
 
 Research Interests
 ======
