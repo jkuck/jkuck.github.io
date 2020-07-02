@@ -39,12 +39,17 @@ Jonathan Kuck\*, Honglei Zhuang\*, Xifeng Yan, Hasan Cam, Jiawei Han
 International Conference on Extending Database Technology (EDBT), 2015  
 [[paper](https://www.semanticscholar.org/paper/Query-Based-Outlier-Detection-in-Heterogeneous-Kuck-Zhuang/40150a1f67a5ebfa78a9ac99f998b39fa34bc9ba)]
 
+Preprints
+======
+1. __Belief Propagation Neural Networks__  
+Jonathan Kuck, Shuvam Chakraborty, Hao Tang, Rachel Luo, Jiaming Song, Ashish Sabharwal, Stefano Ermon  
+[[paper](https://arxiv.org/abs/2007.00295)]
 
 Teaching
-------
+======
 Winter 2018, Stanford: head course assistant for [Probabilistic Graphical Models](https://cs.stanford.edu/~ermon/cs228/index.html)
 
 
 Fun
-------
+======
 I like sports.  I enjoy the [outdoors](https://jkuck.github.io/halfdome_img.html), rock climbing, tennis, and [rolling on balance balls](https://jkuck.github.io/balance_ball_video.html).  I used to focus on [speedskating](https://www.youtube.com/watch?v=3vojCzsek38).
