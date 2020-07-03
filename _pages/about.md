@@ -14,10 +14,11 @@ Contact: jkuck at cs dot stanford dot edu
 
 Research Interests
 ======
-- Approximate Probabilistic Inference
-- Robotic Perception: object detection, object tracking, learning on point cloud data
-- Graph Neural Networks, learning on sets, equivariance and invariance in deep learning
-- Uncertainty Quantification
+- Approximate probabilistic inference
+- Combining probabilistic modeling with deep learning
+- Graph neural networks and learning on irregular data (graphs, sets, and point clouds)
+- Robotic perception: object detection and tracking
+- Uncertainty quantification
 
 
 Publications
