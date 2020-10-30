@@ -23,6 +23,10 @@ Research Interests
 
 Publications
 ======
+1. __Belief Propagation Neural Networks__  
+Jonathan Kuck, Shuvam Chakraborty, Hao Tang, Rachel Luo, Jiaming Song, Ashish Sabharwal, Stefano Ermon  
+Neural Information Processing Systems (NeurIPS), 2020  
+[[paper](https://arxiv.org/abs/2007.00295)] [[code](https://github.com/jkuck/learn_BP)]
 1. __Approximating the Permanent by Sampling from Adaptive Partitions__  
 Jonathan Kuck, Tri Dao, Hamid Rezatofighi, Ashish Sabharwal, Stefano Ermon  
 Neural Information Processing Systems (NeurIPS), 2019  
@@ -42,9 +46,10 @@ International Conference on Extending Database Technology (EDBT), 2015
 
 Preprints
 ======
-1. __Belief Propagation Neural Networks__  
-Jonathan Kuck, Shuvam Chakraborty, Hao Tang, Rachel Luo, Jiaming Song, Ashish Sabharwal, Stefano Ermon  
-[[paper](https://arxiv.org/abs/2007.00295)]
+1. __Privacy Preserving Recalibration under Domain Shift__  
+Rachel Luo, Shengjia Zhao, Jiaming Song, Jonathan Kuck, Stefano Ermon, Silvio Savarese  
+[[paper](https://arxiv.org/abs/2008.09643)]
+
 
 Teaching
 ======
