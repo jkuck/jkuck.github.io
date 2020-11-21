@@ -26,7 +26,7 @@ Publications
 1. __Belief Propagation Neural Networks__  
 Jonathan Kuck, Shuvam Chakraborty, Hao Tang, Rachel Luo, Jiaming Song, Ashish Sabharwal, Stefano Ermon  
 Neural Information Processing Systems (NeurIPS), 2020  
-[[paper](https://arxiv.org/abs/2007.00295)] [[code](https://github.com/jkuck/learn_BP)]
+[[paper](https://arxiv.org/abs/2007.00295)] [[code](https://github.com/jkuck/BPNN)]
 1. __Approximating the Permanent by Sampling from Adaptive Partitions__  
 Jonathan Kuck, Tri Dao, Hamid Rezatofighi, Ashish Sabharwal, Stefano Ermon  
 Neural Information Processing Systems (NeurIPS), 2019  
